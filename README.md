@@ -2,7 +2,7 @@ I’m Aaron Spektor, CS & Business @ WUSTL
 
 Interested in Full-Stack Development, ML/AI, Cybersec, & a bunch of other stuff. 
 
-Portfolio -> 
+Portfolio -> https://aaronspektor.github.io/portfolio/
 
 Contact: a.m.spektor@wustl.edu
 
