@@ -1,6 +1,6 @@
 I’m Aaron Spektor, CS & Business @ WUSTL
 
-Interested in Full-Stack Development, ML/AI, Cybersec, & a bunch of other stuff. 
+Interested in Full-Stack Development, Data Science, ML/AI, Cybersec, & a bunch of other stuff. 
 
 Portfolio -> https://aaronspektor.github.io/portfolio/
 
